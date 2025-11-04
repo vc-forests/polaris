@@ -18,3 +18,23 @@ Short-term trading:
 - Swing trading: < 1 week \
 Automated trading (algorithmic trading)\
 High-frequency trading (HFT)
+### Portfolios and investing strategies
+| Attribute       | Growth Investing                              | Value Investing                                  | Income Investing                              |
+|----------------|-----------------------------------------------|--------------------------------------------------|-----------------------------------------------|
+| Primary goal   | Capital appreciation                          | Capital appreciation                             | Regular income                                 |
+| Investor focus | Future potential, innovation                  | Undervalued “bargains”                           | Consistent cash payouts                        |
+| Typical company| Young, innovative, rapidly expanding          | Mature, stable, temporarily unpopular            | Established, predictable, high cash flow       |
+| Dividends      | Low or none (profits are reinvested)          | Often pays dividends                             | High and stable dividends ke                   |
+| Key metrics    | High revenue growth, High P/E                 | Low P/E, Low P/B*                                | High dividend yield, stable cash flow          |
+| Risk profile   | High                                          | Low to moderate                                  | Low                                            |
+| Time horizon   | Long-te                                       | Medium to long term                              | Any, but often for immediate needs          |
+
+The **core and satelites porfolio**: mixed or hybrid approach, combining various methods
+### Risk and rewards
+Hedging is risk management tactic used to offset potential losses in an investment.
+## A programmer's unfair advantage
+- Follow Peter Lynch principle: the skill you use every day to build software are the same skills that can create wealth.
+### Accounting
+- Income statement - How much revenue a business makes and how much it spends
+- Balance sheet - What assets a business owns and what it owes
+- Cashflow statement - How much cash the business generates
