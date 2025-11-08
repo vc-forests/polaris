@@ -38,8 +38,15 @@ Hedging is risk management tactic used to offset potential losses in an investme
 - Income statement - How much revenue a business makes and how much it spends
 - Balance sheet - What assets a business owns and what it owes
 - Cashflow statement - How much cash the business generates
-What can be infer/induce from **income statement**?
-Revenue - Total income from sales or services.
-Expenses - Costs incured to generate revenues
-Net income - Revenue minus expenses, indicating profit or loss.
+What can be infer/induce from **income statement**?\
+Revenue - Total income from sales or services.\
+Expenses - Costs incured to generate revenues\
+Net income - Revenue minus expenses, indicating profit or loss.\
 Because of concept called _time value of moneny_, investor expects a company increase both revenue and net income over time. Income statement tells us about **performance and operation** of company.
+Balance sheet formula\
+Assets = Liabilities  + Shareholder' equity.
+Free cash flow formula\
+Free cash flow (FCF) = Operating cash flow - Capital expenditures
+### Understand industry classification
+Tips: Interpret the accounting number and connect them to company business model.\
+Warrent Buffet recommends investing only in a business that you understand.

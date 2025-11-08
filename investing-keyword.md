@@ -1,4 +1,12 @@
 ### Keyword
 - intrinsic value: gia tri noi tai
--  P/E = price-to-earning
--  P/B = price-to-booking
+- P/E = price-to-earning
+- P/B = price-to-booking
+- Bullish: optimistic - positive - buy
+- Bearish: pestimistic - negative - sell
+- Capital: von
+- liability: trach nhiem no
+- Equity
+- Liquidity: thanh khoan
+- Capital expense (CapEx): Chi phi von aka von dau tu co dinh
+- Bond yield
